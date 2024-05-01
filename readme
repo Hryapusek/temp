@@ -11,7 +11,7 @@ k delete -f deploy_prometheus.yaml
 k delete -f ns.yaml
 
 
-# on master1 node
+# on master node
 # create
 su -
 
